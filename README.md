@@ -29,7 +29,7 @@ This repository contains an **unofficial PyTorch implementation** of **DECO**, a
 
 ## Poster à la soutenance
 <p align="center">
-<img src="soutenance/deco_poster.png" width="600">
+<img src="soutenance/deco-poster.png" width="600">
 </p>
 
 
