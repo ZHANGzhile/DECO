@@ -26,9 +26,3 @@ This repository contains an **unofficial PyTorch implementation** of **DECO**, a
 - Compatible with standard backbones like ResNet18.
 - Uses Hungarian matching and the set-based loss from DETR.
 - Reasonable training speed and memory usage on a single RTX 2080. (We hope at least haha :D)
-
----
-
-## Getting Started
-
-[Under construction].
